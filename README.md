@@ -1,6 +1,6 @@
-# notification-service
+# nestjs-backend-seed
 
-Notification Service (Email, SMS)
+NESTJS BACKEND SEED
 
 ## Installation
 
