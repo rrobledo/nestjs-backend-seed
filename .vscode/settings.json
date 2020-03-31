@@ -1,0 +1,8 @@
+{
+    "debug.node.autoAttach": "on",
+    "debug.internalConsoleOptions": "openOnSessionStart",
+    "debug.showInStatusBar": "always",
+    "debug.inlineValues": true,
+    "debug.showBreakpointsInOverviewRuler": true,
+    "debug.allowBreakpointsEverywhere": true
+}
